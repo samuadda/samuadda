@@ -46,8 +46,7 @@ Vercel, Git/GitHub, Figma, React PDF, Postman
 | Project | Description | Tech |
 |---------|-------------|------|
 | **Bilfora** | Freelance invoicing SaaS with PDF engine | Next.js, Supabase, Tailwind |
-| **Sirancy** | AI automation landing with animations | Next.js, Framer Motion |
-| **Workflow Visualizer** | Automation mapping UI | React, Canvas |
+| [**Sirancy**] (https://www.sirancy.com) | AI automation landing with animations | Next.js, Framer Motion |
 
 ---
 
