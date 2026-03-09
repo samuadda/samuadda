@@ -9,8 +9,8 @@ I focus on clean interfaces, smooth animations, and products that actually solve
 ---
 
 ## 🚀 What I Build
-- **Bilfora** — Invoicing SaaS (Next.js + Supabase + PDF Engine)
-- **Sirancy** — AI Automation Agency Landing (motion-heavy, bilingual)
+- **Bilfora** (https://www.Bilfora.com) — Invoicing SaaS (Next.js + Supabase + PDF Engine)
+- **Sirancy** (https://www.Sirancy.com) — AI Automation Agency (motion-heavy, bilingual)
 - **Workflow Visualizer** — Concept tool for mapping automation flows
 - **Micro AI Tools** — Sahih, Nahj, and more
 
@@ -46,7 +46,7 @@ Vercel, Git/GitHub, Figma, React PDF, Postman
 | Project | Description | Tech |
 |---------|-------------|------|
 | **Bilfora** | Freelance invoicing SaaS with PDF engine | Next.js, Supabase, Tailwind |
-| [**Sirancy**] (https://www.sirancy.com) | AI automation landing with animations | Next.js, Framer Motion |
+| **Sirancy** | AI automation landing with animations | Next.js, Framer Motion |
 
 ---
 
