@@ -11,8 +11,6 @@ I focus on clean interfaces, smooth animations, and products that actually solve
 ## 🚀 What I Build
 - **Bilfora** (https://www.Bilfora.com) — Invoicing SaaS (Next.js + Supabase + PDF Engine)
 - **Sirancy** (https://www.Sirancy.com) — AI Automation Agency (motion-heavy, bilingual)
-- **Workflow Visualizer** — Concept tool for mapping automation flows
-- **Micro AI Tools** — Sahih, Nahj, and more
 
 ---
 
