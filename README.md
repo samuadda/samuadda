@@ -1,59 +1,61 @@
-# 👋 Hey, I'm Saddiq  
-**Frontend Developer • SaaS Builder**
+## 👋 Hey, I'm Saddiq  
+**Vibe Coder • Front-End Engineer • SaaS Builder**
 
-I build products end-to-end —  
-from UI → backend → automation → onboarding → final ship.
+I don't just write code, I ship products, I leverage AI-native workflows and agentic tools to build end-to-end solutions moving from **UI → Backend → Automation** at high velocity. 
 
-I focus on clean interfaces, smooth animations, and products that actually solve real problems.
+Based in **Riyadh, Saudi Arabia**, I specialize in building clean, bilingual (Arabic/English) interfaces and scalable SaaS systems that solve real-market problems.
 
 ---
 
-## 🚀 What I Build
-- **Bilfora** (https://www.Bilfora.com) — Invoicing SaaS (Next.js + Supabase + PDF Engine)
-- **Sirancy** (https://www.Sirancy.com) — AI Automation Agency (motion-heavy, bilingual)
+## ⚡ The Vibe Coding Toolkit
+I believe in **velocity through AI**. My development workflow isn't just about syntax, it's about orchestration. I use an agentic stack to prototype at 10x speed and iterate with precision.
+
+* **Primary IDEs:** [Cursor](https://www.cursor.com/) & [Antigravity](https://antigravity.ai/)
+* **Agentic Workflows:** Claude Code & Gemini CLI (Terminal-based reasoning)
+* **LLM Orchestration:** ChatGPT, OpenAI Assistants, and n8n 
+* **Rapid UI:** [shadcn/ui](https://ui.shadcn.com/), [TailwindCSS](https://tailwindcss.com/), and [v0.dev](https://v0.dev/)
+
+---
+
+## 🚀 Featured Projects
+
+### 💎 [Bilfora](https://www.bilfora.com) — Invoicing SaaS
+A production-ready invoicing platform tailored for freelancers and small businesses in the Saudi market.
+* **The Build:** Full-stack development using **Next.js + Supabase**.
+* **Key Features:** Custom PDF engine for ZATCA (Fatoora) compliance, complex dashboard logic, and localized UI optimization.
+* **Status:** Successfully moved from hero project to production-ready.
+
+### 🤖 [Siransy](https://www.siransy.com) — AI Automation Agency
+Founder of Siransy, where I help businesses turn manual processes into scalable, automated systems.
+* **The Build:** High-performance landing page with heavy **Framer Motion** and **GSAP** animations.
+* **Focus:** Conversational AI, n8n workflows, and seamless agentic integrations.
 
 ---
 
 ## 🧠 Tech Stack
 
-**Frontend:**  
-React, Next.js, TypeScript, TailwindCSS, shadcn/ui, Framer Motion, GSAP  
+**Frontend:** React, Next.js, TypeScript, TailwindCSS, shadcn/ui, Framer Motion, GSAP.
 
-**Backend:**  
-Supabase, PostgreSQL, Auth, RLS, REST APIs  
+**Backend & Data:** Supabase (PostgreSQL, Auth, RLS), REST APIs, ZATCA Compliance logic.
 
-**Automation:**  
-n8n, OpenAI Assistants, Webhooks, API orchestration, workflow mapping  
-
-**Tools:**  
-Vercel, Git/GitHub, Figma, React PDF, Postman  
+**Automation:** n8n, OpenAI Assistants, Webhooks, API Orchestration.
 
 ---
 
-## 🌟 Highlights
-- Built a full SaaS product solo (UI → DB → logic → automation → PDF)
-- Designed complete onboarding flows, dashboards, and billing experiences
-- Built bilingual interfaces (Arabic/English) with clean RTL/LTR handling
-- Strong product-thinking: I design flows as much as I code them
-- Automation lover: turning business processes into scalable systems
+## 🌟 Why Me?
+* **Product-First Thinking:** I transitioned from real estate evaluation to front-end development, giving me a unique perspective on business ROI and user needs.
+* **Bilingual Specialist:** Expert at handling RTL/LTR layouts and localized UX/UI challenges.
+* **Open Source Contributor:** Currently working on adding Arabic support to tools like **RenderCV**.
+* **Rapid Shipping:** I focus on "shipping as culture"—turning ideas into live URLs in record time.
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Bilfora** | Freelance invoicing SaaS with PDF engine | Next.js, Supabase, Tailwind |
-| **Sirancy** | AI automation landing with animations | Next.js, Framer Motion |
+## ✉️ Let's Connect
+**LinkedIn:** [saddiq-daut](https://www.linkedin.com/in/saddiq-daut/)  
+**Twitter (X):** [@samuadda](https://x.com/samuadda)  
+**Email:** [saddiq0musa@gmail.com](mailto:saddiq0musa@gmail.com)
 
 ---
 
-## ✉️ Contact
-**LinkedIn:** [Saddiq Musa](https://www.linkedin.com/in/saddiq-daut/)  
-**Email:** [saddiq0musa@gmail.com](mailto:saddiq0musa@gmail.com)  
-**Twitter (X):** [@samuadda](https://x.com/samuadda)
-
----
-
-⭐ **Currently building:** Bilfora (SaaS), Sirancy (Landing), Workflow Visualizer  
-🔥 **Goal:** Build products that matter & join a team where shipping is culture.
+⭐ **Currently Building:** Real estate evaluator toolbox (Residual Method Calculator)  
+🔥 **Goal:** Building products that matter and scaling AI automation in the MENA region.
