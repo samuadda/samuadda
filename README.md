@@ -35,7 +35,7 @@ A production-ready invoicing platform tailored for freelancers and small busines
 
 ---
 
-### 🤖 [Sirancy Leads](https://www.leads.sirancy.com) AI Lead Qualification Platform
+### 🤖 [Sirancy Leads](https://www.sirancy.com) AI Lead Qualification Platform
 
 Contributing to the frontend development of operational systems and workflow-driven products targeting businesses in the Saudi market.
 
