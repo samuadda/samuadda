@@ -13,7 +13,10 @@ I enjoy working across the product, from understanding the problem and designing
 
 ---
 
-## 🚀 Products I'm Building
+<h2>
+  <img src="./assets/wired-gradient-2234-firework-hover-launch.gif" width="40">
+  Products I'm Building
+</h2>
 
 ### 💎 Bilfora
 **SaaS Invoicing Platform for Saudi Freelancers & Small Businesses**
@@ -34,7 +37,7 @@ Next.js · React · TypeScript · Supabase · Tailwind CSS
 
 ---
 
-### 🤖 Sirancy Leads
+### <img src="./assets/sirancy-logo.gif" width="40"> Sirancy Leads
 **AI Lead Qualification Product for Real Estate Developers**
 
 Sirancy Leads is an AI-powered product designed to help real estate developers qualify and manage incoming leads more efficiently.
@@ -53,7 +56,11 @@ Next.js · React · TypeScript · Tailwind CSS · AI
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ 
+<h2>
+  <img src="./assets/wired-gradient-2567-logo-stack-overflow-loop-cycle.gif" width="40">
+  Tech Stack
+</h2>
 
 ### Frontend
 - React
@@ -79,15 +86,10 @@ Next.js · React · TypeScript · Tailwind CSS · AI
 
 ---
 
-## 🔨 Currently Building
-
-**Real Estate Evaluator Toolbox**
-
-A collection of tools designed to simplify calculations and workflows used in real estate valuation.
-
----
-
-## 📫 Connect
+<h2>
+  <img src="./assets/wired-gradient-1141-email-circle-hover-rotation.gif" width="40">
+  Connect
+</h2>
 
 - LinkedIn: saddiq-daut
 - X: @samuadda
