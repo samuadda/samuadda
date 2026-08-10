@@ -1,4 +1,7 @@
-# (assets/wired-gradient-2716-logo-clubhouse-hover-pinch.gif) Hey, I'm Saddiq
+<h1>
+  <img src="./assets/wired-gradient-2716-logo-clubhouse-hover-pinch.gif" width="40">
+  Hey, I'm Saddiq
+</h1>
 
 **Product Engineer • SaaS & AI**
 
