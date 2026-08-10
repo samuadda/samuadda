@@ -38,7 +38,7 @@ Next.js · React · TypeScript · Supabase · Tailwind CSS
 ---
 
 <h3>
-  <img src="./assets/wired-gradient-2716-logo-clubhouse-hover-pinch.gif" width="24" align="absmiddle">
+  <img src="./assets/sirancy-logo.gif" width="24" align="absmiddle">
   Sirancy Leads
 </h3>
 
