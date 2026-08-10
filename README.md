@@ -58,7 +58,6 @@ Next.js · React · TypeScript · Tailwind CSS · AI
 
 ---
 
-## 🛠️ 
 <h2>
   <img src="./assets/wired-gradient-2567-logo-stack-overflow-loop-cycle.gif" width="40">
   Tech Stack
