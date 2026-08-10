@@ -38,7 +38,7 @@ Next.js · React · TypeScript · Supabase · Tailwind CSS
 ---
 
 <h3>
-  <img src="./assets/sirancy-logo.gif" width="24" align="absmiddle">
+  <img src="./assets/sirancy-logo.gif" width="40" align="absmiddle">
   Sirancy Leads
 </h3>
 
