@@ -1,59 +1,62 @@
-## 👋 Hey, I'm Saddiq  
-Frontend Engineer • Product Builder
+# 👋 Hey, I'm Saddiq
 
-Based in Riyadh, Saudi Arabia, I build modern SaaS products using Next.js and TypeScript.
+**Product Engineer • SaaS & AI**
 
-I focus on creating scalable, bilingual (Arabic/English) user experiences and translating real operational problems into clean, production-ready software.
+Based in Riyadh, Saudi Arabia.
 
----
+I build SaaS and AI-powered products with Next.js, React, and TypeScript, with a focus on turning real business problems into simple, useful software.
 
-## ⚡ Development Workflow
-
-I focus on building fast, scalable, and maintainable products with strong attention to architecture, usability, and product experience.
-
-### Primary Stack
-- Next.js
-- React
-- TypeScript
-- TailwindCSS
-- shadcn/ui
+I enjoy working across the product, from understanding the problem and designing user flows to building, deploying, and iterating on the final product.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Products I'm Building
 
-### 💎 [Bilfora](https://www.bilfora.com) Freelance Invoicing SaaS
+### 💎 Bilfora
+**SaaS Invoicing Platform for Saudi Freelancers & Small Businesses**
 
-A production-ready invoicing platform tailored for freelancers and small businesses in Saudi Arabia.
+Bilfora is a SaaS invoicing platform designed to simplify invoicing and financial workflows for freelancers and small businesses in Saudi Arabia.
 
-#### Highlights
-- Built using Next.js, TypeScript, and Supabase.
-- Designed scalable frontend architecture and bilingual RTL/LTR experiences.
-- Implemented invoice generation workflows and localized dashboard systems.
-- Built secure authentication and Row-Level Security (RLS) data access patterns.
-- Focused heavily on usability, workflow clarity, and responsive SaaS UI patterns.
+**Built with:**
+Next.js · React · TypeScript · Supabase · Tailwind CSS
 
----
+**Highlights:**
+- Built the product from concept to launch.
+- Designed bilingual Arabic/English interfaces with RTL/LTR support.
+- Built invoice creation and PDF generation workflows.
+- Implemented authentication and Row-Level Security with Supabase.
+- Focused on clear workflows and practical SaaS UX.
 
-### 🤖 [Sirancy Leads](https://www.sirancy.com) AI Lead Qualification Platform
-
-Contributing to the frontend development of operational systems and workflow-driven products targeting businesses in the Saudi market.
-
-#### Highlights
-- Built bilingual interfaces and scalable dashboard experiences using Next.js and TypeScript.
-- Collaborated on integrations and operational workflow systems.
-- Focused on usability, workflow clarity, and modern SaaS product architecture.
-- Worked closely across frontend, backend, and product requirements in a startup environment.
+[Visit Bilfora](https://www.bilfora.com)
 
 ---
 
-## 🧠 Tech Stack
+### 🤖 Sirancy Leads
+**AI Lead Qualification Product for Real Estate Developers**
+
+Sirancy Leads is an AI-powered product designed to help real estate developers qualify and manage incoming leads more efficiently.
+
+**Built with:**
+Next.js · React · TypeScript · Tailwind CSS · AI
+
+**Highlights:**
+- Built bilingual interfaces and dashboard experiences.
+- Designed lead qualification and follow-up workflows.
+- Translated business requirements into product features and user flows.
+- Worked across frontend, product, UX, and backend requirements.
+- Built for real operational workflows in the Saudi real estate market.
+
+[Visit Sirancy](https://www.sirancy.com)
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 - React
 - Next.js
 - TypeScript
-- TailwindCSS
+- Tailwind CSS
 - shadcn/ui
 - Framer Motion
 - GSAP
@@ -61,11 +64,11 @@ Contributing to the frontend development of operational systems and workflow-dri
 ### Backend & Data
 - Supabase
 - PostgreSQL
-- Authentication
-- Row-Level Security (RLS)
 - REST APIs
+- Authentication
+- Row-Level Security
 
-### Tools & Workflow
+### Tools
 - Git & GitHub
 - Vercel
 - Postman
@@ -73,23 +76,20 @@ Contributing to the frontend development of operational systems and workflow-dri
 
 ---
 
-## 🌟 What I Focus On
+## 🔨 Currently Building
 
-- Building production-ready SaaS products.
-- Translating operational workflows into usable software.
-- Designing bilingual Arabic/English user experiences.
-- Shipping quickly while maintaining clean architecture.
-- Creating scalable and maintainable frontend systems.
+**Real Estate Evaluator Toolbox**
+
+A collection of tools designed to simplify calculations and workflows used in real estate valuation.
 
 ---
 
-## ✉️ Let's Connect
+## 📫 Connect
 
-- LinkedIn: [saddiq-daut](https://www.linkedin.com/in/saddiq-daut/)
-- X (Twitter): [@samuadda](https://x.com/samuadda)
-- Email: [saddiq0musa@gmail.com](mailto:saddiq0musa@gmail.com)
+- LinkedIn: saddiq-daut
+- X: @samuadda
+- Email: saddiq0musa@gmail.com
 
 ---
 
-⭐ Currently Building: Real estate evaluator toolbox (Residual Method Calculator)  
-🔥 Goal: Building meaningful SaaS products for the Saudi and MENA market.
+> **Clean UI. Clear Logic. Real Products.**
