@@ -18,8 +18,10 @@ I enjoy working across the product, from understanding the problem and designing
   Products I'm Building
 </h2>
 
-### 💎 Bilfora
-**SaaS Invoicing Platform for Saudi Freelancers & Small Businesses**
+<h3>
+  <img src="./assets/logo-loading.gif" width="40" align="absmiddle">
+  Bilfora
+</h3>
 
 Bilfora is a SaaS invoicing platform designed to simplify invoicing and financial workflows for freelancers and small businesses in Saudi Arabia.
 
