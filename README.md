@@ -37,8 +37,10 @@ Next.js · React · TypeScript · Supabase · Tailwind CSS
 
 ---
 
-### <img src="./assets/sirancy-logo.gif" width="40"> Sirancy Leads
-**AI Lead Qualification Product for Real Estate Developers**
+<h3>
+  <img src="./assets/wired-gradient-2716-logo-clubhouse-hover-pinch.gif" width="24" align="absmiddle">
+  Sirancy Leads
+</h3>
 
 Sirancy Leads is an AI-powered product designed to help real estate developers qualify and manage incoming leads more efficiently.
 
