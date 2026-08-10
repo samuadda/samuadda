@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Saddiq
+# [assets/wired-gradient-2716-logo-clubhouse-hover-pinch.gif] Hey, I'm Saddiq
 
 **Product Engineer • SaaS & AI**
 
