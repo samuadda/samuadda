@@ -3,88 +3,104 @@
   Hey, I'm Saddiq
 </h1>
 
-**Product Engineer • SaaS & AI**
+**Product Engineer building AI-powered SaaS products.**
 
 Based in Riyadh, Saudi Arabia.
 
-I build SaaS and AI-powered products with Next.js, React, and TypeScript, with a focus on turning real business problems into simple, useful software.
+I enjoy taking real operational problems, understanding how the workflow actually works, and turning them into software people can use.
 
-I enjoy working across the product, from understanding the problem and designing user flows to building, deploying, and iterating on the final product.
+My work currently sits between product engineering, SaaS, and modern AI engineering, working across frontend, backend, APIs, automation, and product decisions.
 
 ---
 
 <h2>
   <img src="./assets/wired-gradient-2234-firework-hover-launch.gif" width="40">
-  Products I'm Building
+  What I'm Building
 </h2>
 
-<h3>
-  <img src="./assets/logo-loading.gif" width="40" align="absmiddle">
-  Bilfora
-</h3>
+### Bilfora
 
-Bilfora is a SaaS invoicing platform designed to simplify invoicing and financial workflows for freelancers and small businesses in Saudi Arabia.
+Bilfora is an Arabic-first invoicing SaaS built for freelancers and small businesses.
 
-**Built with:**
-Next.js · React · TypeScript · Supabase · Tailwind CSS
+**Stack:**  
+Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS
 
-**Highlights:**
-- Built the product from concept to launch.
+**What I worked on:**
+- Built the product from concept to a working SaaS.
 - Designed bilingual Arabic/English interfaces with RTL/LTR support.
-- Built invoice creation and PDF generation workflows.
-- Implemented authentication and Row-Level Security with Supabase.
-- Focused on clear workflows and practical SaaS UX.
+- Built customer, order, invoice, and product workflows.
+- Built invoice PDF generation.
+- Implemented authentication and database access with Supabase.
+- Designed the product around simple workflows for small businesses.
 
 [Visit Bilfora](https://www.bilfora.com)
 
 ---
 
-<h3>
-  <img src="./assets/sirancy-logo.gif" width="40" align="absmiddle">
-  Sirancy Leads
-</h3>
+### Sirancy
 
-Sirancy Leads is an AI-powered product designed to help real estate developers qualify and manage incoming leads more efficiently.
+Sirancy is an AI-powered customer service and workflow automation product for businesses.
 
-**Built with:**
-Next.js · React · TypeScript · Tailwind CSS · AI
+**Stack:**  
+Next.js · React · TypeScript · AI APIs · Tailwind CSS
 
-**Highlights:**
-- Built bilingual interfaces and dashboard experiences.
-- Designed lead qualification and follow-up workflows.
-- Translated business requirements into product features and user flows.
-- Worked across frontend, product, UX, and backend requirements.
-- Built for real operational workflows in the Saudi real estate market.
+**What I worked on:**
+- Designed AI-assisted customer service workflows.
+- Built bilingual interfaces and operational dashboards.
+- Worked on lead qualification and workflow automation.
+- Translated business processes into product logic and user flows.
+- Worked across product, frontend, UX, and backend requirements.
 
 [Visit Sirancy](https://www.sirancy.com)
 
 ---
 
+### AI Engineering Lab
+
+A hands-on repository where I build backend and AI engineering projects while going deeper into production-oriented AI systems.
+
+**Currently working with:**  
+Python · FastAPI · Pydantic · REST APIs · Docker
+
+**Projects include:**
+- API design and validation.
+- Structured data processing.
+- Backend services with FastAPI.
+- Dockerized applications.
+- AI and automation experiments.
+
+The goal is simple: learn AI engineering by building working systems, not just notebooks and demos.
+
+---
+
 <h2>
   <img src="./assets/wired-gradient-2567-logo-stack-overflow-loop-cycle.gif" width="40">
-  Tech Stack
+  Tech
 </h2>
 
-### Frontend
-- React
+### Product & Frontend
 - Next.js
+- React
 - TypeScript
 - Tailwind CSS
 - shadcn/ui
 - Framer Motion
-- GSAP
 
-### Backend & Data
+### Backend & AI
+- Python
+- FastAPI
+- Pydantic
 - Supabase
 - PostgreSQL
 - REST APIs
 - Authentication
-- Row-Level Security
+- AI APIs
 
 ### Tools
+- Docker
 - Git & GitHub
-- Vercel
 - Postman
+- Vercel
 - Figma
 
 ---
