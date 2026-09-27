@@ -37,6 +37,11 @@ Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS
 
 ---
 
+<h2>
+  <img src="./assets/sirancy-logo.gif" width="40" align="absmiddle">
+  What I'm Building
+</h2>
+
 ### Sirancy
 
 Sirancy is an AI-powered customer service and workflow automation product for businesses.
